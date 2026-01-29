@@ -3,7 +3,7 @@
 # Lab 2: Monolithic Architecture - College Fest Application
 
 ## Student Information
-- **Name:** [Your Name]
+- **Name:** Yuvika T
 - **SRN:** PES1UG23CS725
 - **Course:** Cloud Computing
 
